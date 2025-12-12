@@ -1,0 +1,5 @@
+{
+  "name": "InternFlow - Task Dashboard",
+  "description": "A comprehensive task management dashboard demonstrating full-stack capabilities with a simulated backend, authentication, and Gemini AI integration for smart task generation.",
+  "requestFramePermissions": []
+}
